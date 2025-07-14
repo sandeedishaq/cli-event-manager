@@ -1,0 +1,8 @@
+venue_id,venue_name,location,capacity,daily_rate,amenities
+V001,Grand Ballroom,Downtown,300,50000,"Stage, Projector, Sound System"
+V002,Convention Center,City Center,1000,150000,"Multiple Halls, WiFi, Catering Kitchen"
+V003,Garden Plaza,Uptown,150,30000,"Outdoor Space, Tent Options"
+V004,Skyline Hall,Midtown,250,60000,"Projector, Lighting, WiFi"
+V005,Royal Pavilion,Suburb Area,400,80000,"Stage, AV System, Catering Facilities"
+V006,Art House Gallery,Arts District,200,45000,"Gallery Walls, Lighting, Sound System"
+V007,Lakeside Venue,Riverside,180,55000,"Lake View, Outdoor Seating, Decorations"
